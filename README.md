@@ -37,7 +37,7 @@ H2DB is an in-memory database and will lose data upon application restart. Consi
 
 **Improvements can be done:**
 <br>
-API Authentication & Authorization
+API Authentication & Authorization <br>
 Junit test case
 
 _____________
